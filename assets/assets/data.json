@@ -1,0 +1,262 @@
+{ "shop":
+    { "data":
+        { "categories": [
+            {
+                "id": 1,
+                "name": "Audio",
+                "products": [
+                    {
+                        "id": 1,
+                        "categoryId": 1,
+                        "name": "Airpods Pro",
+                        "manufacturer": "Apple",
+                        "price": 200,
+                        "type": "Headphones",
+                        "color": "White"
+                    },
+                    {
+                        "id": 2,
+                        "categoryId": 1,
+                        "name": "Airpods Pro 2",
+                        "manufacturer": "Apple",
+                        "price": 300,
+                        "type": "Headphones",
+                        "color": "White"
+                    },
+                    {
+                        "id": 3,
+                        "categoryId": 1,
+                        "name": "Earpods",
+                        "manufacturer": "Apple",
+                        "price": 20,
+                        "type": "Headphones",
+                        "color": "White"
+                    },
+                    {
+                        "id": 4,
+                        "categoryId": 1,
+                        "name": "WH-1000XM4 Bluetooth Headphones",
+                        "manufacturer": "Sony",
+                        "price": 300,
+                        "type": "Headphones",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 5,
+                        "categoryId": 1,
+                        "name": "Tune 700BT Bluetooth headphones",
+                        "manufacturer": "Apple",
+                        "price": 20,
+                        "type": "Headphones",
+                        "color": "Black"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Cameras",
+                "products": [
+                    {
+                        "id": 6,
+                        "categoryId": 2,
+                        "name": "GoPro HERO10",
+                        "manufacturer": "GoPro",
+                        "price": 400,
+                        "type": "Cameras",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 7,
+                        "categoryId": 2,
+                        "name": "GoPro HERO11",
+                        "manufacturer": "GoPro",
+                        "price": 500,
+                        "type": "Cameras",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 8,
+                        "categoryId": 2,
+                        "name": "Fujifilm instax mini 11",
+                        "manufacturer": "Fujifilm",
+                        "price": 500,
+                        "type": "Cameras",
+                        "color": "Blue"
+                    },
+                    {
+                        "id": 9,
+                        "categoryId": 2,
+                        "name": "Sony RX10 IV",
+                        "manufacturer": "Sony",
+                        "price": 1800,
+                        "type": "Cameras",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 10,
+                        "categoryId": 2,
+                        "name": "Canon PowerShot G7",
+                        "manufacturer": "Canon",
+                        "price": 500,
+                        "type": "Cameras",
+                        "color": "Black"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Computers",
+                "products": [
+                    {
+                        "id": 11,
+                        "categoryId": 3,
+                        "name": "MacBook Air 13 M1",
+                        "manufacturer": "Apple",
+                        "price": 1150,
+                        "type": "Laptops",
+                        "color": "Silver"
+                    },
+                    {
+                        "id": 12,
+                        "categoryId": 3,
+                        "name": "MacBook Pro 14 M1 Pro",
+                        "manufacturer": "Apple",
+                        "price": 2200,
+                        "type": "Laptops",
+                        "color": "Silver"
+                    },
+                    {
+                        "id": 13,
+                        "categoryId": 3,
+                        "name": "MacBook Pro 13 M2",
+                        "manufacturer": "Apple",
+                        "price": 1900,
+                        "type": "Laptops",
+                        "color": "Silver"
+                    },
+                    {
+                        "id": 14,
+                        "categoryId": 3,
+                        "name": "Lenovo ThinkPad T14",
+                        "manufacturer": "Lenovo",
+                        "price": 1650,
+                        "type": "Laptops",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 15,
+                        "categoryId": 3,
+                        "name": "HP Pavilion Gaming",
+                        "manufacturer": "HP",
+                        "price": 1000,
+                        "type": "Desktops",
+                        "color": "Silver"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Phones",
+                "products": [
+                    {
+                        "id": 16,
+                        "categoryId": 4,
+                        "name": "iPhone 14",
+                        "manufacturer": "Apple",
+                        "price": 1150,
+                        "type": "Phones",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 17,
+                        "categoryId": 4,
+                        "name": "iPhone 14 Pro Max",
+                        "manufacturer": "Apple",
+                        "price": 1500,
+                        "type": "Phones",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 18,
+                        "categoryId": 4,
+                        "name": "Samsung Galaxy A3",
+                        "manufacturer": "Samsung",
+                        "price": 150,
+                        "type": "Phones",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 19,
+                        "categoryId": 4,
+                        "name": "OnePlus Nord CE 2 Lite",
+                        "manufacturer": "OnePlus",
+                        "price": 200,
+                        "type": "Phones",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 20,
+                        "categoryId": 4,
+                        "name": "Nokia G50 5G",
+                        "manufacturer": "Nokia",
+                        "price": 180,
+                        "type": "Phones",
+                        "color": "Black"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "TVs",
+                "products": [
+                    {
+                        "id": 21,
+                        "categoryId": 5,
+                        "name": "LG 50UQ7000",
+                        "manufacturer": "LG",
+                        "price": 350,
+                        "type": "TVs",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 22,
+                        "categoryId": 5,
+                        "name": "Samsung QE50Q60B",
+                        "manufacturer": "Samsung",
+                        "price": 500,
+                        "type": "TVs",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 23,
+                        "categoryId": 5,
+                        "name": "Samsung UE55AU7172",
+                        "manufacturer": "Samsung",
+                        "price": 350,
+                        "type": "TVs",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 24,
+                        "categoryId": 5,
+                        "name": "LG 65QNED91",
+                        "manufacturer": "LG",
+                        "price": 1500,
+                        "type": "TVs",
+                        "color": "Black"
+                    },
+                    {
+                        "id": 25,
+                        "categoryId": 5,
+                        "name": "Philips 65PUS7556",
+                        "manufacturer": "Philips",
+                        "price": 350,
+                        "type": "TVs",
+                        "color": "Black"
+                    }
+                ]
+            }
+        ]
+        }
+    }
+}
